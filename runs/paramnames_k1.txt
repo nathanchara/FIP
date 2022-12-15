@@ -1,0 +1,9 @@
+harps03_jitter   harps03_jitter
+harps03_offset   harps03_offset
+harps15_jitter   harps15_jitter
+harps15_offset   harps15_offset
+planet1_ecc   planet1_ecc
+planet1_k1   planet1_k1
+planet1_ml0   planet1_ml0
+planet1_omega   planet1_omega
+planet1_period   planet1_period
